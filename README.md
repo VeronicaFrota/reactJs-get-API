@@ -1,7 +1,7 @@
 
 ## Consumo de API
 - Este projeto foi desenvolvido em React JS<br/>
-O projeto consiste em exemplo de consumo da API onde é exibido tela de produtos, detalhes do produto e página de contato, ambas com efeito de carregamento e loading entre as páginas.
+O projeto consiste em exemplo de consumo da API https://ranekapi.origamid.dev/json/api/produto onde é exibido a tela de produtos, detalhes do produto e página de contato, ambas com efeito de carregamento e loading entre as páginas.
 
 
 ## Tecnologias
