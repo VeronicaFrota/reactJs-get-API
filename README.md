@@ -8,7 +8,7 @@ O projeto consiste em exemplo de consumo da API onde é exibido tela de produtos
 - React JS
 
 ## Como instalar
-- Baixe ou clone este repositório usando git clone https://github.com/VeronicaFrota/flexbox-gridlayout.git
+- Baixe ou clone este repositório usando git clone https://github.com/VeronicaFrota/reactJs-get-API
 - Dentro do diretório, instale as dependências usando npm install.
 
 
