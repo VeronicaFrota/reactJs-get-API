@@ -19,6 +19,6 @@ Depois acesse `http://localhost:3000/`
 
 # Resultado final
 ## - Página inicial de produtos
-- <h3>Página contendo todos os produtos disponiveis</h3> 
+- Página contendo todos os produtos disponiveis
 ![1](https://user-images.githubusercontent.com/14812860/106078746-ab773300-60f2-11eb-9839-7b30d86e2807.png)
-
+ 
